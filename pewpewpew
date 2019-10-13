@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title> YouTube </title>
+
+      <style>
+    body {
+     background-image: url("https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi-iZjzzZnlAhXYILcAHWuKBwMQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fyoutube-play-logo&psig=AOvVaw3PgoH49OKMm0Q0VI72WamP&ust=1571068796141697");
+        }
+   h1{
+     height: 100x; width: 700px; background-color: red; color: blue;
+     position: relative; left:300px;
+      }
+        a{
+          color:red;
+      } 
+ a.e{
+ position:relative;top:156px;
+}
+a.c{
+position:relative; top:150px
+}
+a.d{
+position:relative; top:100px
+}
+</style>
+
+  </head>
+
+ 
+
+  <body>
+
+   <h1> Youtube- The Ultimate Video Sharing Platform </h1>
+<div class = "group" >
+  <div class ="subgroup">
+    <div>
+      <a href="Early Stages" class="c">Development</a>
+    </div>
+    <div>
+      <a href="Algorithms" class = "e">ALgorithms</a>
+    </div>
+    <div >
+      <a href="WOWOWOWOW" class = "d">Early stages</a>
+    </div>
+  </div>
+</div>
+
+  </body>
+</html>
